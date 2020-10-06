@@ -54,6 +54,13 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.data
+*.gz
+*.framework
+*.framework.js
+*.js
+*.loader
+*.wasm
 
 # Crashlytics generated file
 crashlytics-build.properties
