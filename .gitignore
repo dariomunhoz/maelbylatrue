@@ -55,11 +55,13 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.data
+*.data.js
 *.gz
 *.framework
 *.framework.js
 *.js
 *.loader
+*.loader.js
 *.wasm
 
 # Crashlytics generated file
